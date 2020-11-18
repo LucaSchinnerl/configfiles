@@ -1,24 +1,36 @@
-Install AUR:
+--Window manager
+1)Aweomsewm
+insert lua file
+2)No auto start
 
+--Libreoffice
+english spelling
+languagetool
+readtext
+
+--Grpahics programm
+
+--Install AUR:
 1)
 cd Programs/
 git clone link
 cd program
 makepkg -si
-
-
 2)
 yay packagename
 --still have to look where the stuff is saved
 
-Audio:
-alsamixer
+--Audio:
+pacman alsamixer
+yay vloumeincon
 
+--Search in terminal
 Mlocate
 sudo updatedb
 
-
+--File manager
 pcmanfm
-filemanager
 
+--Java
+sudo pacman -S jre-openjdk
 
