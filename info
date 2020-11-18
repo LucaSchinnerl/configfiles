@@ -1,0 +1,24 @@
+Install AUR:
+
+1)
+cd Programs/
+git clone link
+cd program
+makepkg -si
+
+
+2)
+yay packagename
+--still have to look where the stuff is saved
+
+Audio:
+alsamixer
+
+Mlocate
+sudo updatedb
+
+
+pcmanfm
+filemanager
+
+
